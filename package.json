@@ -1,6 +1,7 @@
 {
   "name": "react-app-actions",
   "version": "0.1.0",
+  "homepage": ".",
   "description": "testing github actions using react",
   "private": true,
   "dependencies": {
